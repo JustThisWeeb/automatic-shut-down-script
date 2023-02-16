@@ -21,7 +21,6 @@ def hours_calculation(hours, current_hours, current_minutes, minutes):
                 counter += 1
                 if a == hours:
                     return counter
-a = socket.
 if choice == "1":
     try:
         specific_time = input("Specify the time (in the format of hh:mm:ss): ").split(":")
